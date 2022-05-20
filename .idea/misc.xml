@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Proyectos/Android/ChallengeIntergrupo/app/src/main/res/drawable/splash.xml" value="0.224" />
         <entry key="..\:/Proyectos/Android/ChallengeIntergrupo/app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
         <entry key="..\:/Proyectos/Android/ChallengeIntergrupo/app/src/main/res/layout/activity_maps.xml" value="0.1606962663975782" />
-        <entry key="..\:/Proyectos/Android/ChallengeIntergrupo/app/src/main/res/layout/activity_splah.xml" value="0.1606962663975782" />
+        <entry key="..\:/Proyectos/Android/ChallengeIntergrupo/app/src/main/res/layout/activity_splah.xml" value="0.25" />
         <entry key="..\:/Proyectos/Android/ChallengeIntergrupo/app/src/main/res/layout/country_card.xml" value="0.25" />
       </map>
     </option>
